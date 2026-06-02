@@ -1,2 +1,1 @@
-# ai-copilot-projects
-AI &amp; Copilot Projects
+AI & Copilot Projects (In Progress)
